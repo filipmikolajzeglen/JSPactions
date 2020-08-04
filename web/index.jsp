@@ -17,11 +17,14 @@
 <body>
 <h1>Strona główna</h1>
 <form action="show.jsp">
-  Imię: <input type="text" name="firstname">
+  Imię: <input type="text" name="first">
   <br>
-  Nazwisko: <input type="text" name="lastname">
+  Nazwisko: <input type="text" name="last">
   <br>
   <input type="submit" value="Wyślij">
 </form>
+<a href="forward.jsp">Forward</a>
+<br>
+<a href="include.jsp">Include</a>
 </body>
 </html>
