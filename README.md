@@ -1,3 +1,3 @@
 # JSPactions
 JSP actions
-This simple app show how JSP actions works
+This simple app show how JSP actions works.
